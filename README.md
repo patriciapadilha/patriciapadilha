@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Oi, Eu sou a <a href="https://www.linkedin.com/in/patricia-padilha/"><i>Patricia</i></a> ✨ </h1>
+  <h1>Oi, eu sou a <a href="https://www.linkedin.com/in/patricia-padilha/"><i>Patricia Padilha</i></a> ✨ </h1>
   <p>Estudante de Desenvolvimento de Software na <a herf="https://www.betrybe.com/">Trybe</a>💚</p>
   <img alt="gif códigos" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/>
 </div>
