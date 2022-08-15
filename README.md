@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Oi, eu sou a <a href="https://www.linkedin.com/in/patricia-padilha/"><i>Patricia Padilha</i></a> ✨ </h1>
   <p>Estudante de Desenvolvimento de Software na <a herf="https://www.betrybe.com/">Trybe</a>💚</p>
-  <img alt="gif códigos" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/>
+  <img alt="gif códigos" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 </div>
 
 <div align="center">
@@ -11,6 +11,8 @@
   <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
   <img align="center" alt="node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  
+  <img align="center" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt='icone do Typescript'>
   
   <img align="center" alt="Sequelize" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg">
   
