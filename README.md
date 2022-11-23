@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Oi, eu sou a <a href="https://www.linkedin.com/in/patricia-padilha/"><i>Patricia Padilha</i></a> ✨ </h1>
-  <p>Estudante de Desenvolvimento de Software na <a herf="https://www.betrybe.com/">Trybe</a>💚</p>
+  <p>Jr. Software Enginner - Front-end </p>
   <img alt="gif códigos" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 </div>
 
@@ -38,5 +38,5 @@
 <div align="center">
   <h3>Contato</h3>
   <a target="_blank" href="https://www.linkedin.com/in/patricia-padilha/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a target="_blank" href="mailto:patriciapadilhabio@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a target="_blank" href="mailto:patriciapadilhadev@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
