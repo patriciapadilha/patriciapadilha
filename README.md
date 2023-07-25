@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Oi, eu sou a <a href="https://www.linkedin.com/in/patricia-padilha/"><i>Patricia Padilha</i></a> ✨ </h1>
-  <p>Jr. Software Enginner - Front-end </p>
+  <p>Software Enginner - Front-end </p>
   <img alt="gif códigos" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 </div>
 
